@@ -62,7 +62,7 @@ export const SubTitleLogin = styled.p`
     line-height: 25px;
 `
 
-export const EsqueciText = styled.p`
+export const CadastroText = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
@@ -71,7 +71,7 @@ export const EsqueciText = styled.p`
     color: #E5E044;
 `
 
-export const CriarText = styled.p`
+export const JaTemContaText = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
